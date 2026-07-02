@@ -8,7 +8,7 @@
 # ============================= headroom =============================
 hclaude() {
   uv run \
-    --project "/Users/avanlan/code/headroom" \
+    --project "/Users/(username)/(path)/headroom-start" \
     headroom wrap claude "$@"
 }
 ```
